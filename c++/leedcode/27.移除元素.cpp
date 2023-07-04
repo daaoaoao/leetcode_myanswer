@@ -17,7 +17,7 @@ public:
             }
             fast++;
         }
-        return nums.size()-lower;
+        return lower++;
     }
 };
 // @lc code=end
